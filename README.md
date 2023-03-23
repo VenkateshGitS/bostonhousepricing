@@ -18,3 +18,7 @@ conda activate full path
 deactivate
 
 3.pip install -r requirements.txt
+
+git config --global user.name 'venky'
+git config --global user.name 
+git config --global user.email 'email'
